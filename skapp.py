@@ -4,8 +4,11 @@ from pygments import highlight
 from pygments.lexers import get_lexer_by_name
 from pygments.formatters import HtmlFormatter
 
+import os
+
+api_key = os.getenv("OPENAI_API_KEY")
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = api_key
 
 # Define function to generate code comments
 def generate_comment(query):
