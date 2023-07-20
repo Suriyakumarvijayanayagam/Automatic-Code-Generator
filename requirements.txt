@@ -1,2 +1,8 @@
 openai
 Pygments
+Streamlit
+OpenAI
+SpeechRecognition
+Pygments
+PyAudio
+Google Cloud Speech-to-Text
