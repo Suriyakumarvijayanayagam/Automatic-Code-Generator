@@ -12,6 +12,7 @@ The Code Comment Generator is a web application built using Streamlit, OpenAI AP
 - **AI-generated Comments:** The app utilizes OpenAI API to generate helpful comments for the provided code.
 - **AI Model Selection:** Users can choose from different AI models for comment generation.
 - **Comment Saving:** The app provides an option to save the generated comments to a file for future reference.
+![](ccg 1.png)
 
 ## How to Use
 
