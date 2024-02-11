@@ -6,7 +6,7 @@ The Code Comment Generator is a web application built using Streamlit, OpenAI AP
 
 
 ![Screenshot](Automatic-Code-Generator/ccg1.png)
-![Screenshot](ccg2.png)
+![Screenshot](ccg 2.png)
 
 
 ## Features
