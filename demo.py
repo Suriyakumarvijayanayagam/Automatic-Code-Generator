@@ -12,7 +12,7 @@ from google.cloud import speech_v1p1beta1 as speech
 
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "OpenAI API key"
 
 # Define function to generate code comments
 def generate_comment(code_input, model_name):
