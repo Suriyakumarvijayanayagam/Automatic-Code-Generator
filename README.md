@@ -5,7 +5,7 @@
 The Code Comment Generator is a web application built using Streamlit, OpenAI API, and SpeechRecognition. It allows users to input their code and receive AI-generated comments for the code snippets. The application offers both text input and voice recognition options for ease of use.
 
 
-![Screenshot](ccg1.png)
+![Screenshot](Automatic-Code-Generator/ccg1.png)
 ![Screenshot](ccg2.png)
 
 
